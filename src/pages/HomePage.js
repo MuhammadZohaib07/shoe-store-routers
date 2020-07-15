@@ -72,7 +72,7 @@ const HomePage = () => {
           align="center"
           className={classes.subHeading}
         >
-          streetwear / lifestyle / sports
+          CasualWear / Trending / Sports
         </Typography>
         <div className={classes.cardContainer}>
           <CategoryCard
