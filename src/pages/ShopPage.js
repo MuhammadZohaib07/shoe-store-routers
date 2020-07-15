@@ -8,7 +8,6 @@ import List from "@material-ui/core/List";
 import ListItem from "@material-ui/core/ListItem";
 import ListItemText from "@material-ui/core/ListItemText";
 import GlobalContext from "../state/GlobalContext";
-import { Outlet } from "react-router";
 import { AppBar, Tab, Tabs } from "@material-ui/core";
 
 const drawerWidth = 240;
